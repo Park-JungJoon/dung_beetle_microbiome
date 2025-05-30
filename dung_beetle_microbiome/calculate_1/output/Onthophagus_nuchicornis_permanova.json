@@ -1,0 +1,9 @@
+{
+    "test_statistic": 18.270826250679335,
+    "p_value": 0.001,
+    "sample_size": 40,
+    "num_groups": 2,
+    "stat_name": "pseudo-F",
+    "method": "PERMANOVA",
+    "num_permutations": 999
+}

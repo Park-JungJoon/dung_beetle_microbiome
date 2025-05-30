@@ -1,0 +1,9 @@
+{
+    "PERMDISP_F_value": 15.186889409973302,
+    "PERMDISP_p_value": 0.006,
+    "PERMDISP_sample_size": 47,
+    "PERMDISP_n_groups": 2,
+    "PERMDISP_n_permutations": 999,
+    "Mantel_r": 0.26289001618812197,
+    "Mantel_p_value": 0.001
+}
