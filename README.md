@@ -99,20 +99,20 @@ Each species yields:
 ## Requirements
 Python (for PERMANOVA)
 
-python >= 3.8
+-  python >= 3.8
 
-pandas
+-  pandas
 
-scikit-bio
+-  scikit-bio
 
 
 R (for DESeq2 / ALDEx2)
 
-R >= 4.0
+-  R >= 4.0
 
-DESeq2
+-  DESeq2
 
-phyloseq
+-  phyloseq
 
-ALDEx2
-ggplot2, vegan
+-  ALDEx2
+-  ggplot2, vegan
