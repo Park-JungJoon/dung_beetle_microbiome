@@ -88,19 +88,31 @@ dung_beetle_microbiome/
 Each species yields:
 
 *_permanova.json: PERMANOVA test results
+
 *_DESeq2_result.tsv: Differentially abundant SVs (DESeq2)
+
 *_ALDEx2_all.tsv: All ALDEx2 results
+
 *_ALDEx2_significant.tsv: Filtered significant ALDEx2 results
+
 
 ## Requirements
 Python (for PERMANOVA)
+
 python >= 3.8
+
 pandas
+
 scikit-bio
 
+
 R (for DESeq2 / ALDEx2)
+
 R >= 4.0
+
 DESeq2
+
 phyloseq
+
 ALDEx2
 ggplot2, vegan
